@@ -8,7 +8,7 @@ By seamlessly integrating with the **Cloudbeds API v1.3**, this system allows pr
 
 ---
 
-## 🌍 Universal Applicability for Cloudbeds Properties
+🌍 Universal Applicability for Cloudbeds Properties
 
 This system is built with a **property-agnostic architecture**, meaning it scales and adapts to your specific hotel data dynamically:
 - **Drop-In Integration:** Connects instantly via standard Cloudbeds v1.3 API keys. No complex database migrations, middleware, or system overhauls required.
@@ -17,7 +17,7 @@ This system is built with a **property-agnostic architecture**, meaning it scale
 
 ---
 
-## ✨ Key Features
+✨ Key Features
 
 - **Cloudbeds API v1.3 Integration**: Automatically fetches real-time dashboard metrics (Occupancy, In-House Guests, Room Blocks) and reservation pace data. Includes a built-in mock engine fallback if API credentials or network connections are temporarily unavailable.
 - **Multi-Factor Dynamic Pricing Engine**:
@@ -32,7 +32,7 @@ This system is built with a **property-agnostic architecture**, meaning it scale
 
 ---
 
-## 📁 Repository Structure
+📁 Repository Structure
 
 ```text
 .
