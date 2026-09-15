@@ -1,0 +1,24 @@
+Date,Event_Name,Holiday_Factor
+2026-01-01,New Year's Day,1.20
+2026-02-17,Chinese New Year Day 1,1.40
+2026-02-18,Chinese New Year Day 2,1.40
+2026-03-20,Hari Raya Puasa,1.30
+2026-05-01,Labour Day,1.20
+2026-05-27,Vesak Day,1.20
+2026-06-01,School Holiday Period Start,1.10
+2026-06-07,Hari Raya Haji,1.20
+2026-07-31,National Day Weekend,1.20
+2026-08-01,National Day Weekend,1.20
+2026-08-07,National Day Weekend,1.30
+2026-08-08,National Day Weekend,1.30
+2026-08-09,National Day,1.30
+2026-08-10,National Day Observed Holiday,1.25
+2026-09-18,Singapore Grand Prix F1 Weekend,2.00
+2026-09-19,Singapore Grand Prix F1 Weekend,2.00
+2026-09-20,Singapore Grand Prix F1 Race Day,2.20
+2026-10-01,School Holiday Period,1.10
+2026-11-08,Deepavali,1.25
+2026-12-24,Christmas Eve,1.30
+2026-12-25,Christmas Day,1.50
+2026-12-26,Christmas Weekend,1.30
+2026-12-31,New Year's Eve,1.50
